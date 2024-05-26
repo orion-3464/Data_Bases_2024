@@ -42,3 +42,11 @@ Authors:
 + Οι φάκελοι `ER_Diagram` και `Relational` περιέχουν τα διαγράμματα ER και Relational αντίστοιχα (τόσο τη φωτογραφία .png όσο και το xml αρχείο από όπου προήλθαν)
 
 + Ο φάκελος utils περιέχει βοηθητικά προγράμματα python που παρήγαγαν αυτόματα ορισμένα queries
+
+# Οδηγίες
+
+Για να αξιοποιήσει κανείς την εφαρμογή μας πρέπει να τρέξει τα αρχεία SQL στο Workbench ή το XAMPP (phpadmin ή και terminal) με την εξής σειρά:
+1. `cooking-contest-schema.sql`
+2. `cooking-contest-insert-data.sql`
+3. `cooking-contest-users.sql`
+4. `cooking-contest-queries.sql`
