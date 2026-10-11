@@ -11,7 +11,6 @@ Authors:
 
 ![XAMPP](https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/180px-XAMPP_logo.svg.png)
 ![MySQL](https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png)
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_Feather_Logo.svg/1158px-Apache_Feather_Logo.svg.png" width="200" height="200">
 
 Το XAMPP είναι ακρωνύμιο που αντιπροσωπεύει τα παρακάτω:
 + Χ: Cross - Platform
